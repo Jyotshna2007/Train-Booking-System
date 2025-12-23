@@ -30,5 +30,5 @@ This approach ensures proper encapsulation, inheritance, and abstraction, result
 
 ---
 
-Author: **Pragnya Yelisetti**  
-GitHub: https://github.com/Pragnyayelisetti
+Author: **Kondepudi Jyotshna**  
+GitHub: https://github.com/Jyotshna2007
